@@ -1,4 +1,4 @@
-# Data-Mining-on-Yelp-Dataset
+# Data Mining on Apache Spark, Yelp Dataset
 These are assignments and project I finished on an USC course, DSCI-553 Foundations and Applications of Data 
 
 Mining ([Stanford CS246](https://web.stanford.edu/class/cs246/) counterpart), [term 2020 summer](https://web-app.usc.edu/soc/syllabus/20202/32480.pdf), professor [Yao-Yi Chiang](https://yaoyichi.github.io/).
